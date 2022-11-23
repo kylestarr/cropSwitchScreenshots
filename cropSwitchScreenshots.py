@@ -1,6 +1,12 @@
 #! python3
 # copySwitchScreenshots.py - A Python script that crops all images in  
-# current working directory to remove Nintendo Switch UI from 4:3 games
+# current working directory to remove Nintendo Switch UI from 4:3 games.
+#
+# Adapted source:
+# 'Automate the Boring Stuff with Python,  2nd Edition'
+# Copyright 2020 by Al Sweigart
+# No Starch Press Inc.
+# https://automatetheboringstuff.com
 
 import os
 from PIL import Image
