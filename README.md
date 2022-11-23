@@ -1,5 +1,5 @@
 # cropSwitchScreenshots
-Crops all images in current working directory to remove side bars added to 4:3 games by Switch
+A Python script that crops all images in current working directory to remove Nintendo Switch UI from 4:3 games
 
 ## How to use
 
